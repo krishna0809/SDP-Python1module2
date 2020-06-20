@@ -1,0 +1,6 @@
+x= float(input('enter a number:'))
+y=float(input('enter a number:'))
+if(x==y):
+   print('equal')
+else:
+     print('not equal')

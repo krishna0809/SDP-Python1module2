@@ -1,0 +1,10 @@
+x=float(input('enter a number:'))
+y=float(input('enter a number:'))
+print(x,y)
+c=x+y
+if(c<5):
+   print("sum is less than 5")
+elif(c>5):
+     print('sum is greater than 5')
+else:
+     print('sum is equal to 5')

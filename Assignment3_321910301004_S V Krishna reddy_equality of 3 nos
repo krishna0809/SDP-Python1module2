@@ -1,0 +1,10 @@
+x=float(input('enter a no:'))
+y=float(input('enter a no:'))
+z=float(input('enter a no:'))
+print(x,y,z)
+if(x==y and x==z):
+   print('all are equal')
+elif(x==y or x==z):
+     print('two are equal')
+else:
+     ('none aqre equal')

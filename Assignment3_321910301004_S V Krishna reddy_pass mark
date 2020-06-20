@@ -1,0 +1,6 @@
+x=float(input('Enter a students mark:'))
+print(x)
+if(x<35):
+   print('student failed')
+elif(x>=35):
+     print('student passed')
